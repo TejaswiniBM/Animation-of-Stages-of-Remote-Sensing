@@ -8,3 +8,7 @@ Stages of Remote Sensing are as follows:
 4. Recording of Energy by the Sensor (D):- After the energy has been emitted from the target, the reflected wavelength will be collected and recorded by the sensors. Error may occur during the data collection due to difference in surface roughness, angle of incidence, intensity, and wavelength of radiant energy.
 5. Transmission, Reception, and Processing (E):- The energy recorded by the sensor will transmit the data in electronic form to the nearest observation station. Then the detection and discrimination of earth’s feature will be done to form final image.
 6. Interpretation and Analysis (F):- Later the processed image will be interpreted visually and digitally to extract specific information of the particular features.
+
+
+https://user-images.githubusercontent.com/73957979/180611579-09581e1f-548a-4705-8f98-d595e81311a7.mp4
+
