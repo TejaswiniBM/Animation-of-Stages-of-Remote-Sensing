@@ -1,5 +1,6 @@
 # Animation-of-Stages-of-Remote-Sensing
-Remote Sensing - an art or science of observing and gathering information about any object, scene, or phenomenon which exists at a remote location from the point of observation.
+Remote Sensing - an art or science of observing and gathering information about any object, scene, or phenomenon which exists at a remote location from the point of observation. 
+
 Stages of Remote Sensing are as follows:
 1. Energy Source (A):- Sun is the main source of light energy which strikes the earth surface features through Electro-Magnetic Radiation.
 2. Radiation and Atmosphere (B):- EMR interacts with the atmospheric elements while travelingfrom its source to the target. This may obstruct the accuracy of the data collection.
